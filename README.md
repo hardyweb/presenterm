@@ -1,4 +1,4 @@
-presenterm
+presenterm ( Compiled in debian 12 bookworm - x86_64) 
 ===
 
 [![crates-badge]][crates-package] [![brew-badge]][brew-package] [![nix-badge]][nix-package] 
